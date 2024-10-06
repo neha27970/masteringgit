@@ -1,1 +1,1 @@
-console.log("This is the new file")
+console.log("This is the new file and we updated it soon.")
